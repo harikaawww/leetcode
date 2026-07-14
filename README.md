@@ -81,4 +81,8 @@ All solved leetcode solutions everyday!!
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harikaawww/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/harikaawww/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

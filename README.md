@@ -8,6 +8,7 @@ All solved leetcode solutions everyday!!
 | ------- |
 | [0486-predict-the-winner](https://github.com/harikaawww/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harikaawww/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1260-shift-2d-grid](https://github.com/harikaawww/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harikaawww/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harikaawww/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harikaawww/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -129,6 +130,7 @@ All solved leetcode solutions everyday!!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/harikaawww/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harikaawww/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -164,4 +166,8 @@ All solved leetcode solutions everyday!!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/harikaawww/leetcode/tree/master/0486-predict-the-winner) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/harikaawww/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

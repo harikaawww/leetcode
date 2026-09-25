@@ -51,6 +51,7 @@ All solved leetcode solutions everyday!!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/harikaawww/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/harikaawww/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/harikaawww/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harikaawww/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harikaawww/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -105,6 +106,7 @@ All solved leetcode solutions everyday!!
 | [0115-distinct-subsequences](https://github.com/harikaawww/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/harikaawww/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harikaawww/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/harikaawww/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harikaawww/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/harikaawww/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harikaawww/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -135,6 +137,7 @@ All solved leetcode solutions everyday!!
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/harikaawww/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/harikaawww/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/harikaawww/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harikaawww/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -232,6 +235,7 @@ All solved leetcode solutions everyday!!
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/harikaawww/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/harikaawww/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harikaawww/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
@@ -262,6 +266,7 @@ All solved leetcode solutions everyday!!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harikaawww/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/harikaawww/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -331,6 +336,7 @@ All solved leetcode solutions everyday!!
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/harikaawww/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harikaawww/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |

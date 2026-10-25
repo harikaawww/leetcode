@@ -11,6 +11,7 @@ All solved leetcode solutions everyday!!
 | [0835-image-overlap](https://github.com/harikaawww/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/harikaawww/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harikaawww/leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/harikaawww/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harikaawww/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harikaawww/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harikaawww/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -186,6 +187,7 @@ All solved leetcode solutions everyday!!
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/harikaawww/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/harikaawww/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harikaawww/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harikaawww/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -258,6 +260,7 @@ All solved leetcode solutions everyday!!
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/harikaawww/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harikaawww/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/harikaawww/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -265,6 +268,7 @@ All solved leetcode solutions everyday!!
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/harikaawww/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/harikaawww/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/harikaawww/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/harikaawww/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harikaawww/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
@@ -355,6 +359,7 @@ All solved leetcode solutions everyday!!
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/harikaawww/leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/harikaawww/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harikaawww/leetcode/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harikaawww/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harikaawww/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

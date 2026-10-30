@@ -45,6 +45,7 @@ All solved leetcode solutions everyday!!
 | [3525-find-x-value-of-array-ii](https://github.com/harikaawww/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harikaawww/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harikaawww/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/harikaawww/leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harikaawww/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harikaawww/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harikaawww/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -104,6 +105,7 @@ All solved leetcode solutions everyday!!
 | [3524-find-x-value-of-array-i](https://github.com/harikaawww/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/harikaawww/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/harikaawww/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/harikaawww/leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harikaawww/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harikaawww/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harikaawww/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -241,6 +243,7 @@ All solved leetcode solutions everyday!!
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harikaawww/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/harikaawww/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harikaawww/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/harikaawww/leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harikaawww/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -268,6 +271,7 @@ All solved leetcode solutions everyday!!
 | [1386-cinema-seat-allocation](https://github.com/harikaawww/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harikaawww/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harikaawww/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/harikaawww/leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harikaawww/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harikaawww/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harikaawww/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -358,6 +362,7 @@ All solved leetcode solutions everyday!!
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harikaawww/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harikaawww/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/harikaawww/leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -472,4 +477,8 @@ All solved leetcode solutions everyday!!
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harikaawww/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Bitmask
+|  |
+| ------- |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/harikaawww/leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->

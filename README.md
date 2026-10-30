@@ -34,6 +34,7 @@ All solved leetcode solutions everyday!!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harikaawww/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harikaawww/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harikaawww/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/harikaawww/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harikaawww/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harikaawww/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harikaawww/leetcode/tree/master/3483-unique-3-digit-even-numbers) |

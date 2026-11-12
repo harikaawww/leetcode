@@ -41,6 +41,7 @@ All solved leetcode solutions everyday!!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harikaawww/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harikaawww/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harikaawww/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harikaawww/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harikaawww/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/harikaawww/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harikaawww/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |

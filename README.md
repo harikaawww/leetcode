@@ -45,6 +45,7 @@ All solved leetcode solutions everyday!!
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harikaawww/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/harikaawww/leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harikaawww/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harikaawww/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harikaawww/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harikaawww/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harikaawww/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -364,14 +365,17 @@ All solved leetcode solutions everyday!!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harikaawww/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harikaawww/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harikaawww/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harikaawww/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harikaawww/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harikaawww/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harikaawww/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harikaawww/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harikaawww/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/harikaawww/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harikaawww/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -473,6 +477,7 @@ All solved leetcode solutions everyday!!
 | [2747-count-zero-request-servers](https://github.com/harikaawww/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harikaawww/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harikaawww/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harikaawww/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harikaawww/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
@@ -522,4 +527,12 @@ All solved leetcode solutions everyday!!
 |  |
 | ------- |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/harikaawww/leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harikaawww/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harikaawww/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
